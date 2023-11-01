@@ -1,7 +1,5 @@
-[![MasterHead](https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Jyoti Saikia</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashjsaikia&label=Profile%20views&color=0e75b6&style=flat" alt="akashjsaikia" /> </p>
 
