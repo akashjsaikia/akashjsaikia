@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **SQL, PowerBI**
 
-- 📫 How to reach me **findme.ajs1@gmail.com**
+- 📫 How to reach me **akashjyotisaikia22@gmail.com**
 
 - ⚡ Fun fact **An Electronic Engineer turned into Data Professional**
 
